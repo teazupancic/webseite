@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'master_works_-_demoregular';
+    src: url('master_works_-_demo.woff2') format('woff2'),
+         url('master_works_-_demo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 #farbe1 {
     color:blue;
 }
@@ -47,4 +56,13 @@
     letter-spacing: 2px;
     word-spacing: 4px;
 }
+#squirrel{
+    font-family: 'master_works_-_demoregular';
+}
 
+#customGoogle {
+    font-family: 'Poppins', sans-serif;
+}
+#block {
+    background-color: red;
+}
