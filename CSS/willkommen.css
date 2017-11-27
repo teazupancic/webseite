@@ -1,0 +1,50 @@
+#farbe1 {
+    color:blue;
+}
+#farbe2{
+    color: #d9b3ff;
+}
+#fontfamily{
+    font-family: Arial;
+}
+#fontstacking{
+    font-family: Helvetica, Arial, sans-serif;
+}
+#cursive {
+    font-family: cursive;
+}
+#fantasy {
+    font-family: fantasy;
+}
+#fontsize{
+    font-size: 10px;
+}
+#italic{
+    font-style: italic;
+}
+#bold {
+    font-weight: bold;
+}
+#upper {
+    text-transform: uppercase;
+}
+#underline {
+    text-decoration: underline;
+}
+#shadow {
+    text-shadow: 4px 4px 5px black;
+}
+#center {
+    text-align: center;
+}
+#height1 {
+    line-height: 3;
+}
+#height2 {
+    line-height: 0.5;
+}
+#spacing {
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
