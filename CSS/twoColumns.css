@@ -1,0 +1,22 @@
+body{
+    min-width: 700px;
+    /*width:100%;*/
+    /*border: 3px solid;*/
+    margin: 10px;
+}
+.container{
+    border: 1px solid;
+}
+a {
+    text-decoration:none;
+    color:black
+}
+/*.col-sm-3 {
+    background-color: lightblue;
+}*/
+div {
+    background-color: lightblue;
+}
+#x {
+    background-color: white;
+}
